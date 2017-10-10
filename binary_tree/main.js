@@ -82,6 +82,7 @@ window.addEventListener("load", () => {
             ctx.moveTo(x, y);
             ctx.arc(x, y, RADIUS, 0, PI2);
             ctx.stroke();
+            ctx.fillStyle = "silver";
             ctx.fill();
             ctx.restore();
         }
@@ -102,6 +103,7 @@ window.addEventListener("load", () => {
             ctx.strokeStyle = "black";
             ctx.fillStyle = "white";
             ctx.font = "10pt 'sans-serif'";
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
             draw(root);
         }
     })()
