@@ -1,0 +1,77 @@
+{
+    "val": "S",
+    "child": [
+        {
+            "val": "D",
+            "child": [
+                {
+                    "val": "I",
+                    "child": [
+                        {
+                            "val": "M",
+                            "child": [
+                                {
+                                    "val": "N",
+                                    "child": [
+                                        {
+                                            "val": "O",
+                                            "child": [
+                                                {
+                                                    "val": "K",
+                                                    "child": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "val": "J",
+                                            "child": [
+                                                {
+                                                    "val": "E",
+                                                    "child": [
+                                                        {
+                                                            "val": "F",
+                                                            "child": [
+                                                                {
+                                                                    "val": "H",
+                                                                    "child": [
+                                                                        {
+                                                                            "val": "C",
+                                                                            "child": [
+                                                                                {
+                                                                                    "val": "B",
+                                                                                    "child": [
+                                                                                        {
+                                                                                            "val": "A",
+                                                                                            "child": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "val": "L",
+                                                                            "child": [
+                                                                                {
+                                                                                    "val": "G",
+                                                                                    "child": []
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
